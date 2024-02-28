@@ -1,0 +1,14 @@
+Measure,Abbreviation,Unit
+Work Time,Time,minutes
+Core (rectal) Temperature,Tc,°C
+Mean Skin Temperature,Tsk,°C
+Heart Rate,HR,bpm
+Participant No.,ID,-
+,,
+Condition ID,Condition Name,
+1,EOD,
+2,EOD+IV,
+,,
+Termination Criteria,,
+90% of Heart Rate Maximum,HR,
+Walking for 60 mins,Time,
